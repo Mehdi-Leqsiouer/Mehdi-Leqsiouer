@@ -11,3 +11,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mehdi-leqsiouer&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehdi-leqsiouer&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Zakichanu&theme=xcode&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
