@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Leqsiouer</h1>
-<h3 align="center">A passionate Big data & IA engineer in France</h3>
+<h3 align="center">A passionate Data Enginneer in France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
