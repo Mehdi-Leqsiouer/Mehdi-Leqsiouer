@@ -13,6 +13,12 @@
 - 🐍 Advanced **Python** developer for Data Processing & Automation.
 - 📫 Connect with me: <a href="https://www.linkedin.com/in/mehdi-leqsiouer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="25" /></a>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Certified" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Certified" />
+  <img src="https://img.shields.io/badge/Scrum.org-PSD%20I-004E89?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="PSD1" />
+</p>
+
 ---
 
 ### 🛠 Tech Stack
@@ -29,6 +35,8 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
