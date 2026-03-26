@@ -12,6 +12,7 @@
 - 🏗️ Infrastructure as Code enthusiast with **Terraform**.
 - 🐍 Advanced **Python** developer for Data Processing & Automation.
 - 📫 Connect with me: <a href="https://www.linkedin.com/in/mehdi-leqsiouer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="25" /></a>
+- My website: <a href="https://mehdi-leqsiouer.github.io">mehdi-leqsiouer.github.io</a>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Certified" />
